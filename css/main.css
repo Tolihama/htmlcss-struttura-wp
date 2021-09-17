@@ -8,12 +8,36 @@
 /* UTILITIES */
 .container {
     width: 80%;
+    margin: 0 auto;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
 }
 
 /* debug */
+section {
+    height: 500px;
+}
+
+#one {
+    background-color: #e1d67a;
+}
+
+#two {
+    background-color: #0087ff;
+}
 
 /* HEADER */
+header {
+    background: #e579e6;
+    height: 100px; /* placeholder */
+}
 
 /* MAIN CONTENT */
 
 /* FOOTER */
+footer {
+    background: #8801fe;
+    height: 100px; /* placeholder */
+}
